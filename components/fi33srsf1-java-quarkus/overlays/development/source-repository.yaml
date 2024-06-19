@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fi33srsf1-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fi33srsf1-java-quarkus
